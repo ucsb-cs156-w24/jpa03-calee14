@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-calee14
 
 Running at: <http://jpa03-calee14.dokku-15.cs.ucsb.edu>
 
